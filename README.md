@@ -11,17 +11,17 @@ A React + Vite application designed to showcase a collection of movies. The app 
 ### Home Page
 The Home Page shows the most popular movies with a search box to find specific titles.
 
-![Home Page](src/assets/Home.png)
+![Home Page](frontend/src/assets/Home.png)
 
 ### Search Functionality
 Search for movies directly by typing in the search box. The app fetches matching results from the API.
 
-![Search Functionality](src/assets/search.gif)
+![Search Functionality](frontend/src/assets/search.gif)
 
 ### Favorites Page
 View your favorite movies on a dedicated Favorites Page.
 
-![Favorites Page](src/assets/Favorites.png)
+![Favorites Page](frontend/src/assets/Favorites.png)
 
 ## 🚀 Getting Started
 
