@@ -69,7 +69,6 @@ function Home() {
                         <MovieCard key={movie.id} movie={movie} />
                     )}
                 </div>
-
             )}
         </div>
     )
